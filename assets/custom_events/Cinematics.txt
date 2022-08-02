@@ -1,0 +1,9 @@
+Start:
+
+Value 1= 1
+Value 2= EMPTY
+
+Stop:
+
+Value 1= EMPTY
+Value 2= 2
