@@ -1,0 +1,77 @@
+{
+	"storyName": "sonic.exe 3.0",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"prey",
+			"starved-pixel",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"fight or flight",
+			"starved",
+			[
+				215,
+				40,
+				0
+			]
+		],
+		[
+			"manual blast",
+			"hog",
+			[
+				0,
+				53,
+				173
+			]
+		],
+		[
+			"substantial",
+			"xterion",
+			[
+				46,
+				0,
+				195
+			]
+		],
+		[
+			"my horizon",
+			"chaotix-pixel",
+			[
+				255,
+				33,
+				95
+			]
+		],
+		[
+			"forestall desire",
+			"requital",
+			[
+				255,
+				200,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
