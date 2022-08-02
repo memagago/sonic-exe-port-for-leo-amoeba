@@ -1,0 +1,226 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Replace stage layer",
+						"black",
+						"sky"
+					]
+				]
+			],
+			[
+				23.4375,
+				[
+					[
+						"Replace stage layer",
+						"black",
+						"run"
+					]
+				]
+			],
+			[
+				85.2272727272727,
+				[
+					[
+						"HideHud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10823.8636363636,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				10892.0454545455,
+				[
+					[
+						"Replace stage layer",
+						"run",
+						"black"
+					]
+				]
+			],
+			[
+				10909.0909090909,
+				[
+					[
+						"Replace stage layer",
+						"sky",
+						"black"
+					]
+				]
+			],
+			[
+				21818.1818181818,
+				[
+					[
+						"ShowHud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131250,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				131676.136363636,
+				[
+					[
+						"Change Character",
+						"dad",
+						"starved-pixel"
+					],
+					[
+						"Play Animation",
+						"dialogue",
+						"Dad"
+					]
+				]
+			],
+			[
+				131761.363636364,
+				[
+					[
+						"Lyrics",
+						"Seems that bucket of bolts had to lay off the nitro this time around!",
+						"004AEA"
+					]
+				]
+			],
+			[
+				131846.590909091,
+				[
+					[
+						"Play Animation",
+						"first dialogue",
+						"1"
+					]
+				]
+			],
+			[
+				135255.681818182,
+				[
+					[
+						"Lyrics",
+						"Hey Red Head!",
+						"004AEA"
+					]
+				]
+			],
+			[
+				136363.636363636,
+				[
+					[
+						"Lyrics",
+						"Might wanna repair your toys!",
+						"004AEA"
+					]
+				]
+			],
+			[
+				138494.318181818,
+				[
+					[
+						"Lyrics",
+						"You don't even know your fate, hedgehog...",
+						"FF0000"
+					]
+				]
+			],
+			[
+				142840.909090909,
+				[
+					[
+						"Lyrics",
+						"*Maniacal kackling*",
+						"FF0000"
+					]
+				]
+			],
+			[
+				152301.136363636,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-Sonic-Peelout"
+					],
+					[
+						"Lyrics",
+						"",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				283806.818181817,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				284232.954545453,
+				[
+					[
+						"Lyrics",
+						"Man, you really like scrambling your own plans don't'cha-",
+						"004AEA"
+					],
+					[
+						"Play Animation",
+						"dialogue peel",
+						"Bf"
+					]
+				]
+			],
+			[
+				286789.772727272,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				286874.999999999,
+				[
+					[
+						"Image Flash",
+						"blackscreen",
+						"99999"
+					]
+				]
+			]
+		]
+	}
+}
